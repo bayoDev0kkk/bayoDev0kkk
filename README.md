@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Baiel Kanybekov
-
+***I am a front-end developer creating user interfaces with ReactJS, React-Redux, TypeScript .***
 <!--
 **bayoDev0kkk/bayoDev0kkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
