@@ -7,17 +7,14 @@
 - 📫 How to reach me: kanybekov245@gmail.com
 
 
-<h1>**Connect with me:**</h1>
+<h3>Connect with me:</h3>
 
 
 <div id="socials" align="center" flex="column">
-	<a href="linkedin-url">
+	<a href="linkedin.com/in/байэл-каныбеков-378779256">
 		<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 	</a>
-	<a href="twitter-url">
-		<img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-	</a>
-	<a href="telegram-url">
+	<a href="[telegram-url](https://t.me/KanybekovB)">
 		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 	</a>
 </div>
