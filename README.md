@@ -7,7 +7,6 @@
 - 📫 How to reach me: kanybekov245@gmail.com
 
 Connect with me:
-syimykmitalipov syimyk-mitalipov-67a327223 syimyk_mitalipov
-
-Languages and Tools:
-babel bootstrap css3 docker electron express figma firebase git graphql html5 javascript jest mongodb nestjs nextjs nodejs postman react reactnative redux sass tailwind typescript vuejs webpack
+<a href="[linkedin-url](https://www.linkedin.com/in/%D0%B1%D0%B0%D0%B9%D1%8D%D0%BB-%D0%BA%D0%B0%D0%BD%D1%8B%D0%B1%D0%B5%D0%BA%D0%BE%D0%B2-378779256/)">
+	<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
