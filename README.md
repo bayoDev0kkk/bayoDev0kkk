@@ -6,9 +6,22 @@
 - 💬 Ask me about React, Redux, Typescript,Redux-toolkit
 - 📫 How to reach me: kanybekov245@gmail.com
 
-<img src="assets/coding.gif">
+<img  src="assets/coding.gif">
 
-<h3>Languages and Tools</h3>
+### Languages and Tools 
+![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=CSS3&logoColor=1e90ff)
+![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=Figma)
+![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git)
+![Sass](https://img.shields.io/badge/-Sass-090909?style=for-the-badge&logo=Sass)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-090909?style=for-the-badge&logo=Bootstrap)
+![JS](https://img.shields.io/badge/-JS-090909?style=for-the-badge&logo=JavaScript)
+![ReactJS](https://img.shields.io/badge/-ReactJS-090909?style=for-the-badge&logo=React)
+![Tailwind](https://img.shields.io/badge/-Tailwind-090909?style=for-the-badge&logo=Tailwindcss)
+![Vite](https://img.shields.io/badge/-Vite-090909?style=for-the-badge&logo=Vite)
+![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux)
+![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)
+
 
 <h3>Connect with me:</h3>
 
