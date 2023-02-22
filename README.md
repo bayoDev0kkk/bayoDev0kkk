@@ -6,6 +6,8 @@
 - 💬 Ask me about React, Redux, Typescript,Redux-toolkit
 - 📫 How to reach me: kanybekov245@gmail.com
 
+[(https://github.com/bayoDev0kkk/bayoDev0kkk/blob/main/assets/coding.gif)]
+
 <h3>Languages and Tools</h3>
 
 <h3>Connect with me:</h3>
