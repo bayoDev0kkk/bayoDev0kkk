@@ -30,6 +30,9 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=LinkedIn&logoColor=blue)](https://www.linkedin.com/in/каныбеков)
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bayoDev0kkk&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 
