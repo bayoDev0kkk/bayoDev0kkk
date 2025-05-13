@@ -23,8 +23,6 @@ I am a Frontend Developer with 3+ years of experience in building user interface
 
 <img  src="assets/coding.gif">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bayoDev0kkk&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Connect with me:
 - [GitHub](https://github.com/bayoDev0kkk)
 - [LinkedIn](https://linkedin.com/in/kanybekov)
