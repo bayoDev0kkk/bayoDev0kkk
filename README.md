@@ -1,38 +1,35 @@
-### Hi there 👋 I'm Baiel Kanybekov
-***I am a front-end developer creating user interfaces with ReactJS, React-Redux, TypeScript .***
+# Hi there 👋 I'm Baiel Kanybekov
 
-- 🌱 I’m currently learning React-Redux, Redux-Toolkit, TypeScript
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about React, Redux, Typescript,Redux-toolkit
-- 📫 How to reach me: kanybekov245@gmail.com
+I am a Frontend Developer with 3+ years of experience in building user interfaces using ReactJS, TypeScript, Redux, and TailwindCSS. I specialize in creating clean, scalable, and maintainable code. I enjoy working in Agile teams and always strive to improve my skills by learning new technologies.
+
+### 💬 Ask me about:
+- React
+- Redux & Redux Toolkit
+- TypeScript
+- TailwindCSS
+- Clean Code Architecture
+
+### 📫 How to reach me:
+- Email: [kanybekov245@gmail.com](mailto:kanybekov245@gmail.com)
+- LinkedIn: [My LinkedIn](https://linkedin.com/in/kanybekov)
+- Telegram: [@kkkjjj123450](https://t.me/kkkjjj123450)
+
+### Languages and Tools:
+- **Frontend**: React, TypeScript, JavaScript (ES6+), Redux, Redux Toolkit, RTK Query, React Router DOM
+- **Styling**: TailwindCSS, MUI, Styled-Components, CSS3, SASS/SCSS
+- **Tools**: Git, GitHub, Vercel, Postman, Swagger, Figma, Jira, Confluence
+- **Build tools**: Vite, Webpack
+- **Others**: Agile/Scrum methodology, Clean Architecture
 
 <img  src="assets/coding.gif">
 
-### Languages and Tools:
-![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=CSS3&logoColor=1e90ff)
-![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=Figma)
-![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git)
-![Sass](https://img.shields.io/badge/-Sass-090909?style=for-the-badge&logo=Sass)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-090909?style=for-the-badge&logo=Bootstrap)
-![JS](https://img.shields.io/badge/-JS-090909?style=for-the-badge&logo=JavaScript)
-![ReactJS](https://img.shields.io/badge/-ReactJS-090909?style=for-the-badge&logo=React)
-![Tailwind](https://img.shields.io/badge/-Tailwind-090909?style=for-the-badge&logo=Tailwindcss)
-![Vite](https://img.shields.io/badge/-Vite-090909?style=for-the-badge&logo=Vite)
-![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux)
-![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)
-
-
-<h3>Connect with me:</h3>
-
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/KanybekovB)
-[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=Instagram)](https://www.instagram.com/kanybekov_780/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=LinkedIn&logoColor=blue)](https://www.linkedin.com/in/каныбеков)
-
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bayoDev0kkk&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-
+### Connect with me:
+- [GitHub](https://github.com/bayoDev0kkk)
+- [LinkedIn](https://linkedin.com/in/kanybekov)
+- [Telegram](https://t.me/kkkjjj123450)
+- [Email](mailto:kanybekov245@gmail.com)
 
 
 
