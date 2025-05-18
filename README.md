@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Baiel Kanybekov
 
-I am a Frontend Developer with 3+ years of experience in building user interfaces using ReactJS, TypeScript, Redux, and TailwindCSS. I specialize in creating clean, scalable, and maintainable code. I enjoy working in Agile teams and always strive to improve my skills by learning new technologies.
+I am a Frontend Developer with experience in building user interfaces using ReactJS, TypeScript, Redux, and TailwindCSS. I specialize in creating clean, scalable, and maintainable code. I enjoy working in Agile teams and always strive to improve my skills by learning new technologies.
 
 ### 💬 Ask me about:
 - React
